@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vini</h1>
 <h3 align="center">🌟Passionate Programmer & Lifelong Learner</h3>
 
-- 👨‍💻 All of my projects are available at [www.viniciuspraxedes.com](www.viniciuspraxedes.com)
+- 👨‍💻 All of my projects are available at [www.viniciuspraxedes.com](https://www.viniciuspraxedes.com/)
 
 - 📫 How to reach me **vinipraxedes@hotmail.com**
 
