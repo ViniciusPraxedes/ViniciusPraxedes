@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm Vini</h1>
+<h1 align="center">Vini Praxedes</h1>
 <h3 align="center">🌟Passionate Programmer & Lifelong Learner</h3>
 
-- 👨‍💻 All of my projects are available at [www.viniciuspraxedes.com](https://www.viniciuspraxedes.com/)
-- 📫 How to reach me **vinipraxedes@hotmail.com**
+- 👨‍💻 Checkout my portfolio at [www.viniciuspraxedes.com](https://www.viniciuspraxedes.com/)
+- 📫 Get in contact!: **vinipraxedes@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
