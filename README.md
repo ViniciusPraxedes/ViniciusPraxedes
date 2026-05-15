@@ -1,5 +1,5 @@
 <h1 align="center">Vini Praxedes</h1>
-<h3 align="center">🌟 SAP BTP Consultant | Full-Stack Developer | AI Enthusiast</h3>
+<h3 align="center"> SAP BTP Consultant | Full-Stack Developer | AI Enthusiast</h3>
 
 <p align="center">
   <strong>Passionate developer and lifelong learner. Always up for a challenge.</strong>
