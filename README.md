@@ -40,13 +40,12 @@ I am a **Consultant at Stretch Evolve** specializing in **SAP BTP** and cloud-na
 
 ### 💡 Featured Projects
 * **Purchase Requisition AI**: A conversational chatbot that interprets requests and executes procurement processes directly in **SAP S/4HANA**.
-* **Production Control App**: A custom Fiori application on **SAP BTP** designed to simplify production order tracking in Cloud ERP.
+* **Production Control App**: A custom Fiori application on **SAP BTP** designed to simplify production order tracking in **SAP S/4HANA**.
 * **Currency Exchange Rate**: A Fiori application developed to simplify how customers manage currency rates in **SAP S/4HANA**.
-* **Odata Exporter**: A Javascript application created for fetching big amounts of data from **SAP S/4HANA**.
+* **Odata Exporter**: A Javascript application created for fetching big amounts of data from Odata endpoints.
 
 ---
 
 ### 🤝 Connect with me:
-* 👨‍💻 Portfolio: [www.viniciuspraxedes.com](https://www.viniciuspraxedes.com/)
 * 🔗 LinkedIn: [vinicius-praxedes](https://www.linkedin.com/in/vinicius-praxedes/)
 * 📫 Email: **vinipraxedes@hotmail.com**
