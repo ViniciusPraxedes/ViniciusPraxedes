@@ -47,5 +47,5 @@ I am a **Consultant at Stretch Evolve** specializing in **SAP BTP** and cloud-na
 ---
 
 ### 🤝 Connect with me:
-* 🔗 LinkedIn: [vinicius-praxedes](www.linkedin.com/in/vinicius-praxedes)
+* 🔗 LinkedIn: [vinicius-praxedes](https://www.linkedin.com/in/vinicius-praxedes)
 * 📫 Email: **vinipraxedes@hotmail.com**
